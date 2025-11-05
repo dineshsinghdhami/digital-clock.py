@@ -6,9 +6,9 @@ A **simple digital clock** built using **Python (Tkinter)**.
 
 ## 🚀 Features
 
-- 🕰️ Real-time clock with hours, minutes, and seconds
-- 📅 Displays the current date
-- 🖥️ Built with **Tkinter**
+- 🕰️ Real-time clock with hours, minutes, and seconds.
+- 📅 Displays the current date.
+- 🖥️ Built with **Tkinter.**
 
 ---
 
