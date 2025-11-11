@@ -46,6 +46,9 @@ python digital-clock.py
 
 ## ©️ Copyright
 
-- All rights reserved © 2025 **[Dinesh Singh Dhami](https://www.dineshsinghdhami.com.np)**
+- <p>All rights reserved © 2025 <a href="https://www.dineshsinghdhami.com.np" target="_blank">Dinesh Singh Dhami <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" width="18" style="vertical-align: middle;">
+</a>
+</p>
+
 - This project is licensed for personal and educational use.
 - For commercial use or redistribution, please contact the owner.
